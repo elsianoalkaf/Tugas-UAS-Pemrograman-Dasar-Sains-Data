@@ -1,0 +1,5 @@
+Pandas
+Numpy
+Matplotlib
+Streamlit
+Streamlit_option_menu
